@@ -1,2 +1,2 @@
 # Calculator
-Author -Shlok srivastava.
+Author - Shlok srivastava.
