@@ -26,8 +26,8 @@ This is a simple calculator application that allows users to perform basic arith
 - Keyboard support for faster input.
 
 ## Screenshots
-![Calculator Screenshot](path/to/screenshot.png)
-![Calculator Screenshot Dark Mode](path/to/screenshot-dark-mode.png)
+![Calculator Screenshot](path/to/calculator.png)
+![Calculator Screenshot Dark Mode](path/to/calculator-dark-mode.png)
 
 ## Technologies Used
 - HTML
