@@ -1,9 +1,9 @@
-# Calculator
+# Calculator. 
 
-## Description
+## Description. 
 This is a simple calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-## Installation Instructions
+## Installation Instructions. 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
@@ -14,33 +14,33 @@ This is a simple calculator application that allows users to perform basic arith
    ```
 3. Open `index.html` in your web browser.
 
-## Usage
+## Usage. 
 - Enter numbers and select an operation to perform calculations.
 - The result will be displayed on the screen.
 
-## Features
+## Features. 
 - Basic arithmetic operations: addition, subtraction, multiplication, division.
 - User-friendly interface.
 - Responsive design for various screen sizes.
 - Dark mode support for improved readability.
 - Keyboard support for faster input.
 
-## Screenshots
+## Screenshots.
 ![Calculator Screenshot](path/to/calculator.png)
 ![Calculator Screenshot Dark Mode](path/to/calculator-dark-mode.png)
 
-## Technologies Used
+## Technologies Used. 
 - HTML
 - CSS
 - JavaScript
 - React for building the user interface.
 
-## Future Enhancements
+## Future Enhancements. 
 - Implement advanced mathematical functions (e.g., square root, exponentiation).
 - Add a history feature to track previous calculations.
 - Integrate with popular note-taking apps for seamless data transfer.
 
-## Contributing
+## Contributing. 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
 ## Acknowledgments
